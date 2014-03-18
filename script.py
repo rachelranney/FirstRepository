@@ -1,4 +1,4 @@
-ÂÂ®# Camera trap script
+âÂÂ®# Camera trap script
 
 Read data file
 
