@@ -3,3 +3,7 @@
 Read data file
 
 Run analysis
+
+Make Table
+
+Make small figure
