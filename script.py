@@ -1,4 +1,4 @@
-# Camera trap script
+�®# Camera trap script
 
 Read data file
 
@@ -6,4 +6,4 @@ Run analysis
 
 Make Table
 
-Make small figure
+Make small figure, red line≈
