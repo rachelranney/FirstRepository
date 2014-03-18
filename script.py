@@ -7,3 +7,6 @@ Run analysis
 Make Table
 
 Make small figure, red line≈
+
+Summarize data
+
